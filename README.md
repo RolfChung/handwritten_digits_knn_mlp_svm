@@ -2,7 +2,7 @@
 
 <p>
 In this project models based on the k-nearest neighbors algorithm (KNN) and models based on neural networks of type multi layer perceptron (MLP) are developed and applied to the     
-<a href="  https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html">digits dataset (classification)</a>. Each datapoint is a 8x8 image of a digit. The goal is to recognize the images of the hand-written digits.Also a support vector machine base model is built. 
+<a href="  https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html">digits dataset (classification)</a>. Each datapoint is a 8x8 image of a digit. The goal is to recognize the images of the hand-written digits. Also a support vector machine base model is built. 
 </p> 
 
 <p>
